@@ -15,7 +15,7 @@ apt-get install python3.8-venv
 apt-get install python3-distutils
 apt-get install build-essential -y
 wget https://bootstrap.pypa.io/get-pip.py
-python3.7 get-pip.py
+python3.8 get-pip.py
 ln -s /usr/bin/python3.8 /usr/local/bin/python
 ```
 
