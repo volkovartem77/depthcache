@@ -64,3 +64,8 @@ cd ~/depthcache; git pull origin master
 python configure.py
 supervisorctl start all
 ```
+
+Run test
+```
+cd ~/depthcache; . venv/bin/activate; python crossing_test.py
+```
