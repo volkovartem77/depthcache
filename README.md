@@ -35,7 +35,7 @@ chown redis:redis /var/lib/redis
 ```
 pip install virtualenv
 virtualenv -p /usr/bin/python3.8 ~/depthcache/venv
-cd ~/brunobot; . venv/bin/activate
+cd ~/depthcache; . venv/bin/activate
 pip install -r requirements.txt
 python configure.py
 deactivate
