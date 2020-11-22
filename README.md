@@ -1,4 +1,4 @@
-# Binance DepthCache. Deploy on server Ubuntu 18.04.03 (DigitalOcean 2GB/2CPU)
+# Binance DepthCache. Deploy on server Ubuntu 18.04.03 (DigitalOcean 4GB/2CPU)
 
 ## Install Python 3.8
 
