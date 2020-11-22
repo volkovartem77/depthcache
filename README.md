@@ -23,7 +23,7 @@ ln -s /usr/bin/python3.8 /usr/local/bin/python
 
 ```
 apt-get install git-core
-git clone https://github.com/volkovartem77/brunobot.git
+git clone https://github.com/volkovartem77/depthcache.git
 ```
 ```
 apt-get install redis-server -y
